@@ -21,8 +21,8 @@
   });
 
   // Title: replace "Your Studio" in the document title if the name was changed
-  if (S.name && document.title.indexOf("Your Studio") !== -1) {
-    document.title = document.title.replace("Your Studio", S.name);
+  if (S.name && document.title.indexOf("Diana Zohrabyan") !== -1 && S.name !== "Diana Zohrabyan") {
+    document.title = document.title.replace("Diana Zohrabyan", S.name);
   }
 
   // Copyright year

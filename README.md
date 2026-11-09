@@ -6,8 +6,8 @@ Privacy Policy, Terms of Use, and a Contact & Support page. Works on any static 
 ## 1. Personalize (5 minutes)
 
 Edit **`assets/site.config.js`** — every name, email, address, and date on the site is
-pulled from this one file. The default placeholder values are "Your Studio", so search
-for that text if you want to double-check nothing was missed.
+pulled from this one file. The developer name is set to Diana Zohrabyan; the email and
+address fields still hold example values until you replace them.
 
 Then, in **`index.html`**, replace the three example app cards in the `<section id="apps">`
 block with your real apps (name, description, tags, and App Store link).

@@ -4,13 +4,13 @@
    ============================================================ */
 window.SITE = {
   // Public studio / developer name (shown in the header, footer, and legal pages)
-  name: "Your Studio",
+  name: "Diana Zohrabyan",
 
   // Legal entity name as registered (e.g. "Your Studio LLC" or your full personal name)
-  legalName: "Your Studio LLC",
+  legalName: "Diana Zohrabyan",
 
   // One-line description of what you build
-  tagline: "Independent app studio building for iPhone, iPad, Mac, and Apple Watch.",
+  tagline: "Independent developer building apps for iPhone, iPad, Mac, and Apple Watch.",
 
   // Contact details
   supportEmail: "support@yourstudio.com",
